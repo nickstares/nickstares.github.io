@@ -1,0 +1,26 @@
+#+TITLE:Todo
+ - [ ] Deploy
+   - [ ] Push to nickstares.github.io
+   - [ ] point github.io to domain
+ - [ ] Clean up bottom for shorter posts
+ - [ ] Footer
+ - General style
+   - [X] Change h1/h2 sizes?
+   - [ ] Make block quote smaller/more readable
+ - [-] Writing
+   - [X] implement archive view for /writing
+   - [ ] Style writing better
+ - [X] Implement gallery system
+   - [X] should refer to post
+   - [X] check formatting edge cases
+ - [X] Fix Lines
+ - [X] SUBSCRIBE BUTTON??
+ - [X] Margin not equal in mobile view?
+ - [X] Make ipad formatting like mobile by expanding media query
+   - Maybe change for 1024 / horizontal view?
+   - content width goes to page margins
+ - [X] Write Bio
+ - [X] MAKE THE WHOLE NAV BUTTON LINK ( in mobile )
+ - [X] Take headshot
+ - [X] Fix Favicon
+ - [X] Why is tags: writing necessary?
